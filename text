@@ -1,0 +1,18 @@
+# August
+# 个人名称或昵称
+name: suixia
+# 页面个人头像信息中地址展示信息
+location: 邯郸
+# 页面个人头像信息中公司展示信息
+company: No Company
+# 页面个人头像信息中职位展示信息
+position: Java开发工程师
+# 页面个人头像信息中GITHUB展示信息
+github: https://github.com/2653301187qq
+# 页面个人头像信息中电话展示信息
+phone: 17340845505
+# 页面个人头像信息中EMAIL展示信息
+email: u.2653301187@gmail.com
+
+#本项目的baseurl
+baseurl: "/resume.io"
